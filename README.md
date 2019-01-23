@@ -28,3 +28,4 @@ Home Assistant config
 - Xiaomi MiJia wireless switch WXKG01LM
 - Xiaomi Aqara temperature, humidity and pressure sensor WSDCGQ11LM 
 - Xiaomi Aqara water leak sensor SJCGQ11LM
+- Xiaomi Aqara human body movement and illuminance sensor RTCGQ11LM
